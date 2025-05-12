@@ -15,15 +15,15 @@ The farther you go, the greater the reward… but one wrong step means game over
 
 Key Features:
 
-🎮 Simple controls, deep risk-reward strategy
+ Simple controls, deep risk-reward strategy
 
-🔥 Multipliers scale up fast (up to 250,000x in Deathtrap mode)
+ Multipliers scale up fast (up to 250,000x in Deathtrap mode)
 
-💀 Survival odds dynamically decrease by difficulty
+ Survival odds dynamically decrease by difficulty
 
-💸 Optional cash-out feature for tactical players who prefer to play it safe
+ Optional cash-out feature for tactical players who prefer to play it safe
 
-😈 “Deathtrap” mode is nearly impossible—designed for thrill-seekers who want maximum tension
+ “Deathtrap” mode is nearly impossible—designed for thrill-seekers who want maximum tension
 
 Why It Stands Out:
 Unlike traditional crash or mines games, Chicken Journey introduces direction-based choice mechanics that feel more active and engaging. This makes it ideal for livestreamers, content creators, and gambling platforms looking for fresh, addictive gameplay that gets people talking.
