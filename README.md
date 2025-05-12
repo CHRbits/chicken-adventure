@@ -1,1 +1,1 @@
-# chicken-adventure
+# chicken-journey 
