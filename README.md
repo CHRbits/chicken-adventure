@@ -1,4 +1,5 @@
 # chicken-journey 
+Note: So far, this is raw code. I am currently still working on it, and working on making sprites and animations for the code This is just a structure for the game
 Chicken Journey – A Risk-Based Adventure Betting Game
 Overview:
 Chicken Journey is a fast-paced, high-stakes directional betting game where players guide a brave little chicken through a gauntlet of deadly choices. Blending classic risk mechanics with fresh, engaging visuals, the game offers a unique progression format that rewards nerves of steel and strategic decision-making.
